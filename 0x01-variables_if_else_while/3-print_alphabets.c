@@ -18,4 +18,5 @@ int main(void)
 	{
 		putchar(upper_case);
 	}
+	return(0);
 }
